@@ -3,3 +3,6 @@ opencv-python
 numpy
 torch
 torchvision
+
+
+#activate environment after opening folder: source yolo_env/bin/activate
